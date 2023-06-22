@@ -1,0 +1,93 @@
+[
+      {
+        "_id": 1,
+        "image": "https://m.media-amazon.com/images/I/717u0S2XACL._AC_SX522_.jpg",
+        "class_name": "Oil Painting Basics",
+        "instructor_name": "Emily Johnson",
+        "total_student": 10,
+        "available_seats": 12,
+        "price": 50
+      },
+      {
+        "_id": 2,
+        "image": "https://watermark.lovepik.com/photo/20211210/large/lovepik-teacher-teaches-childrens-pottery-painting-close-picture_501774283.jpg",
+        "class_name": "Pottery Sculpting",
+        "instructor_name": "Michael Brown",
+        "total_student": 15,
+        "available_seats": 8,
+        "price": 75
+      },
+      {
+        "_id": 3,
+        "image": "https://cdn.aaa.org.hk/w900h500/physical_collection/10369AF1-907B-4429-9C81-E35A1CC02BF2.jpg",
+        "class_name": "Mixed Media Collage",
+        "instructor_name": "Sarah Davis",
+        "total_student": 18,
+        "available_seats": 10,
+        "price": 60
+      },
+      {
+        "_id": 4,
+        "image": "https://cdn.shopify.com/s/files/1/0546/8150/1893/files/Watercolor_painting_of_flowers_in_a_vase.jpg?v=1636633896",
+        "class_name": "Watercolor Techniques",
+        "instructor_name": "John Smith",
+        "total_student": 9,
+        "available_seats": 15,
+        "price": 55
+      },
+      {
+        "_id": 5,
+        "image": "https://ruthasawa.com/wp-content/uploads/photo-gallery/Asawa-2-23-LC-T-S.238_011.jpg",
+        "class_name": "Sculpting with Wire",
+        "instructor_name": "Jessica Thompson",
+        "total_student": 20,
+        "available_seats": 6,
+        "price": 90
+      },
+      {
+        "_id": 6,
+        "image": "https://charlartscript.com/wp-content/uploads/2017/06/IMG_5717-1024x767.jpg",
+        "class_name": "Calligraphy Fundamentals",
+        "instructor_name": "David Wilson",
+        "total_student": 5,
+        "available_seats": 12,
+        "price": 70
+      },
+      {
+        "_id": 7,
+        "image": "https://www.thebeginningartist.com/wp-content/uploads/2021/10/pottery-plates-with-faces.jpg?ezimgfmt=rs:348x327/rscb36/ngcb36/notWebP",
+        "class_name": "Ceramic Handbuilding",
+        "instructor_name": "Emily Johnson",
+        "total_student": 16,
+        "available_seats": 10,
+        "price": 80
+      },
+      {
+        "_id": 8,
+        "image": "https://i0.wp.com/www.jewelryshoot.com/wp-content/uploads/2017/10/how-to-make-jewelry-classes.jpg?fit=1200%2C800&ssl=1",
+        "class_name": "Jewelry Making Workshop",
+        "instructor_name": "Jessica Thompson",
+        "total_student": 11,
+        "available_seats": 8,
+        "price": 65
+      },
+      {
+        "_id": 9,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/32/2020/03/Screenshot-2020-03-27-at-11.34.21-0616326.png",
+        "class_name": "Origami for Beginners",
+        "instructor_name": "Michael Brown",
+        "total_student": 7,
+        "available_seats": 10,
+        "price": 45
+      },
+      {
+        "_id": 10,
+        "image": "https://images.immediate.co.uk/production/volatile/sites/32/2020/05/weaving-techniques-18-3691edc.jpg?quality=90&fit=600,400",
+        "class_name": "Weaving Techniques",
+        "instructor_name": "Sarah Davis",
+        "total_student": 13,
+        "available_seats": 6,
+        "price": 75
+      }
+]
+  
